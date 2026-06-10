@@ -35,3 +35,17 @@ A feature-rich desktop music player built with Python, offering playlist managem
 - Playlist saving/loading
 - Equalizer settings
 - Dark/Light theme switching
+
+## Screenshots
+
+### Main Player
+![Main Player](screenshots/main-player-screen.png)
+
+### Music Playing
+![Music Playing](screenshots/music-playing-screen.png)
+
+### Playlist Panel
+![Playlist Panel](screenshots/playlist-panel.png)
+
+### Vinyl Animation
+![Vinyl Animation](screenshots/vinyl-animation.png)
